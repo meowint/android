@@ -3,4 +3,7 @@
     <string name="start">Start</string>
     <string name="about">About</string>
     <string name="check">Check integrity</string>
+    <string name="error">Error\n</string>
+    <string name="ok">OK</string>
+    <string name="copy">Copy</string>
 </resources>
